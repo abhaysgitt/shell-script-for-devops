@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shell Scripting for DevOps
 
 Zero to hero. Bash basics → real DevOps automation.
@@ -71,3 +72,6 @@ Stuck? `bash -x script.sh` shows every line as it runs.
 ---
 
 Likhna shuru karo. Galtiyaan karo. Phir se likho. **Bas yahi tarika hai.**
+=======
+# shell-script-for-devops
+>>>>>>> 1cdcdf3e5839110ce54a8e48445c374abe7d4a8a
